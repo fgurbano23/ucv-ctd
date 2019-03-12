@@ -1,0 +1,23 @@
+.header{
+
+}
+
+.inline-list{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.inline-list li {
+    display: inline-block;
+    margin: 0em 1em 0em 1em;
+}
+
+.img-runway{
+    background: #f6f6f6;
+}
+
+
+.footer{
+    height: 5em;
+}
